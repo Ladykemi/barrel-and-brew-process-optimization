@@ -48,7 +48,15 @@ Recommended implementing an integrated digital operational management solution t
 ## TO-BE Process Modelling
 <img width="540" height="406" alt="image" src="https://github.com/user-attachments/assets/d4c688b3-977e-4836-8cfc-7fa59f6d8122" />
 
+## 💰 Expected Business Impact
 
+The proposed solution aimed to deliver:
+- 40% improvement in production efficiency
+- 60% reduction in machine downtime
+- 70% improvement in quality consistency
+- 80% reduction in inventory discrepancies
+- Improved employee productivity and collaboration
+- Enhanced customer satisfaction
 
 
 ## 📊 Key Deliverables
@@ -71,15 +79,18 @@ Recommended implementing an integrated digital operational management solution t
 <img width="1016" height="763" alt="image" src="https://github.com/user-attachments/assets/1de4c70f-d945-4dff-9d82-1e81c9e4d43d" />
 
 
-## 💰 Expected Business Impact
 
-The proposed solution aimed to deliver:
-- 40% improvement in production efficiency
-- 60% reduction in machine downtime
-- 70% improvement in quality consistency
-- 80% reduction in inventory discrepancies
-- Improved employee productivity and collaboration
-- Enhanced customer satisfaction
+
+## 🔍 Key Skills Demonstrated
+
+- Business Analysis
+- Requirements Gathering
+- Process Improvement
+- Workflow Analysis
+- Gap Analysis
+- Root Cause Analysis
+- Documentation
+- Strategic Thinking
 
 ## 📂 Repository Contents
 - Full BRD Document
